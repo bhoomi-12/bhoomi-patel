@@ -1,0 +1,9 @@
+pre{
+    color:darkblue;
+    font-weight: bold;
+}
+.borderr {
+    border: 1px solid rgb(161, 159, 159);
+    margin: 8px;
+    border-radius: 5px;
+  }

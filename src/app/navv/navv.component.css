@@ -1,0 +1,12 @@
+p{
+    color:red;
+    border:2px solid pink;
+    width:190px
+}
+.nv-br{
+    position: fixed;
+    top: 1px;
+    z-index: 1;
+    background-color: #222;
+    width: 100%;
+}
